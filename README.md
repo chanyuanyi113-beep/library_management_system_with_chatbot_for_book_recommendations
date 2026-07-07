@@ -11,6 +11,6 @@ Steps to access LMS
 10. Open a new tab and paste "http://localhost/lms/index.php".
 11. Login Credentials
 12. Admin	    →  username: 111       password: admin111
-13. Librarian   →  username: testing   password: 22222222
-14. User1       →  username: user1     password: user1111
-15. User2       →  username: user2     password: user2222
+    Librarian   →  username: testing   password: 22222222
+    User1       →  username: user1     password: user1111
+    User2       →  username: user2     password: user2222
